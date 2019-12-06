@@ -1,0 +1,26 @@
+.body {
+    background-image: url("../assets/images/checkerboard-cross.png");
+}
+
+.jumbotron {
+    background-color: transparent;
+    border-bottom: 3px solid gray;
+    color: white;
+    padding:0px;
+}
+
+.header-content {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.header-name {
+    background-color: teal;
+    height: 100%;
+    padding: 20px;
+    color: white;
+}
+
+.nav {
+    float: right;
+}
