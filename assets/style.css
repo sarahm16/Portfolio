@@ -10,17 +10,19 @@
 }
 
 .header-content {
-    width: 75%;
     margin: 0 auto;
+    text-align: center;
+    border-bottom: 3px solid gray;
 }
 
 .header-name {
     background-color: teal;
     height: 100%;
+    width: 100%;
     padding: 20px;
     color: white;
 }
 
-.nav {
-    float: right;
+#me {
+    width:30%;
 }
