@@ -1,3 +1,5 @@
+/*
+
 div[class="row"] {
     outline: 1px dotted rgba(0, 0, 0, 0.25);
 }
@@ -6,6 +8,8 @@ div[class^="col-"] {
     background-color: rgba(255, 0, 0, 0.2);
     outline: 1px dotted rgba(0, 0, 0, 0.5);
 }
+
+*/
 
 body {
     background-image: url("../assets/images/checkerboard-cross.png");
@@ -44,7 +48,7 @@ body {
 }
 
 #me {
-    width:30%;
+    width:300px;
 }
 
 .about-me,
@@ -58,9 +62,18 @@ body {
     padding:40px;
     border: 2px solid gray;
     margin: 30px 0px 0px 0px;
-    width: 60%;
 }
 
+#name,
+#email,
+#address {
+    width: 100%;
+}
+
+#submit {
+    background-color: teal;
+    color: white;
+}
 
 
 @media (max-width: 640px) {
@@ -72,9 +85,6 @@ body {
 }
 
 @media (max-width: 768px) {
-    .main-content {
-        width: 100%;
-    }
 
     .header-name {
         margin-left: 0px;
