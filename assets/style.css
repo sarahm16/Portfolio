@@ -47,7 +47,9 @@ body {
     width:30%;
 }
 
-.about-me {
+.about-me,
+.contact,
+.portfolio {
     color: teal;
 }
 
@@ -76,5 +78,11 @@ body {
 
     .header-name {
         margin-left: 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    .nav {
+        padding-top: 30px;
     }
 }
