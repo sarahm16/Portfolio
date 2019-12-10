@@ -25,3 +25,9 @@ Below I have included screenshots of what each html page is intended to look lik
 <img src = "assets/images/contact-large.png">
 <img src = "assets/images/contact-medium.png">
 <img src = "assets/images/contact-small.png">
+
+<h1>portfolio.html</h1>
+
+<img src = "assets/images/portfolio-large.png">
+<img src = "assets/images/portfolio-medium.png">
+<img src = "assets/images/portfolio-small.png">
