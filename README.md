@@ -8,7 +8,7 @@ Each html page is built in a Bootstrap container. The image below outlines the r
 
 ![code](assets/images/row-col-code.png)
 
-![portfolio](assets/images/portfolio.png width = "500")
+![portfolio]("assets/images/portfolio.png" width = "500")
 
 The header is in one row, divided into two columns on medium and large screens. Each column occupies all 12 columns on small screens so that the navbar is below my name and both take up the entire width of the screen.
 
