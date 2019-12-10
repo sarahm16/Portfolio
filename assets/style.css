@@ -1,4 +1,6 @@
-/*
+
+
+
 
 div[class="row"] {
     outline: 1px dotted rgba(0, 0, 0, 0.25);
@@ -9,7 +11,7 @@ div[class^="col-"] {
     outline: 1px dotted rgba(0, 0, 0, 0.5);
 }
 
-*/
+
 
 body {
     background-image: url("../assets/images/checkerboard-cross.png");
@@ -24,18 +26,16 @@ h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
+a,
+p {
+    color: gray;
+}
+
 .header {
     background-color: white;
     border-bottom: 2px solid gray;
     color: white;
     padding:0px;
-}
-
-
-.nav {
-    padding-right: 0px;
-    text-align: center;
-    margin-right: 0px;
 }
 
 .header-content {

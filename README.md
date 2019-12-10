@@ -6,7 +6,7 @@ I've included a navigation bar edited from Bootstrap that navigates user between
 
 Each html page is built in a Bootstrap container. The image below outlines the rows and columns in each container, and the code used to show them.
 
-<img src = "assets/images/row-col-code.png">
+![code](assets/images/row-col-code.png)
 
 <img src = "assets/images/portfolio.png" width = "500">
 
