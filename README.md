@@ -18,15 +18,19 @@ I designed a container within the main content in portfolio.html that displays a
 
 Below I have included screenshots of what each html page is intended to look like on different screen sizes.
 
-<h1>index.html</h1>
+<h2>index.html</h2>
 
-<h1>contact.html</h1>
+<img src = "assets/images/index-large.png">
+<img src = "assets/images/index-medium.png">
+<img src = "assets/images/index-small.png">
+
+<h2>contact.html</h2>
 
 <img src = "assets/images/contact-large.png">
 <img src = "assets/images/contact-medium.png">
 <img src = "assets/images/contact-small.png">
 
-<h1>portfolio.html</h1>
+<h2>portfolio.html</h2>
 
 <img src = "assets/images/portfolio-large.png">
 <img src = "assets/images/portfolio-medium.png">
