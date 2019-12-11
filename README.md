@@ -6,9 +6,9 @@ I've included a navigation bar edited from Bootstrap that navigates user between
 
 Each html page is built in a Bootstrap container. The image below outlines the rows and columns in each container, and the code used to show them.
 
-<img src = "assets/images/portfolio.png" width = "500">
+<img src = "assets/images/readme-images/portfolio.png">
 
-<img src = "assets/images/row-col-code.png">
+<img src = "assets/images/readme-images/row-col-code.png">
 
 The header is in one row, divided into two columns on medium and large screens. Each column occupies all 12 columns on small screens so that the navbar is below my name and both take up the entire width of the screen.
 
@@ -20,18 +20,18 @@ Below I have included screenshots of what each html page is intended to look lik
 
 <h2>index.html</h2>
 
-<img src = "assets/images/index-large.png">
-<img src = "assets/images/index-medium.png">
-<img src = "assets/images/index-small.png">
+<img src = "assets/images/readme-images/index-large.png">
+<img src = "assets/images/readme-images/index-medium.png">
+<img src = "assets/images/readme-images/index-small.png">
 
 <h2>contact.html</h2>
 
-<img src = "assets/images/contact-large.png">
-<img src = "assets/images/contact-medium.png">
-<img src = "assets/images/contact-small.png">
+<img src = "assets/images/readme-images/contact-large.png">
+<img src = "assets/images/readme-images/contact-medium.png">
+<img src = "assets/images/readme-images/contact-small.png">
 
 <h2>portfolio.html</h2>
 
-<img src = "assets/images/portfolio-large.png">
-<img src = "assets/images/portfolio-medium.png">
-<img src = "assets/images/portfolio-small.png">
+<img src = "assets/images/readme-images/portfolio-large.png">
+<img src = "assets/images/readme-images/portfolio-medium.png">
+<img src = "assets/images/readme-images/portfolio-small.png">
